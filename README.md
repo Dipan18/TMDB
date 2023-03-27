@@ -23,4 +23,4 @@ For the app to work, register on the TMDB Developer API website, get an access k
 ### Screenshots:
 | | | | |
 |---|---|---|---|
-| ![](./screenshots/1.png) | ![](./screenshots/2.png) | ![](./screenshots/3.png) | ![](./demo.gif)
+| ![](./screenshots/1.png) | ![](./screenshots/2.png) | ![](./screenshots/3.png) | ![](./screenshots/demo.gif)
