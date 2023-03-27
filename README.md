@@ -5,7 +5,7 @@
 ---
 
 `Note:
-For the app to work, register on the TMDB Developer API website, get an access key and paste it into the gradle.properties file in the root folder. And you're done! 
+For the app to work, register on the TMDB Developer API website, get an access key and paste it into the build.gradle(app level) file. And you're done! 
 `
 
 ---
